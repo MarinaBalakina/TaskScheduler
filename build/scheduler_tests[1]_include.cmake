@@ -1,0 +1,5 @@
+if(EXISTS "D:/university/c++/labwork9-MarinaBalakina/build/scheduler_tests[1]_tests.cmake")
+  include("D:/university/c++/labwork9-MarinaBalakina/build/scheduler_tests[1]_tests.cmake")
+else()
+  add_test(scheduler_tests_NOT_BUILT scheduler_tests_NOT_BUILT)
+endif()

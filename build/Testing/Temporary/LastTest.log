@@ -1,0 +1,138 @@
+Start testing: Apr 25 17:29 RTZ 2 (çèìà)
+----------------------------------------------------------
+1/5 Testing: Scheduler.SingleConstantTask
+1/5 Test: Scheduler.SingleConstantTask
+Command: "D:/university/c++/labwork9-MarinaBalakina/build/tests/processing-lib-tests.exe" "--gtest_filter=Scheduler.SingleConstantTask" "--gtest_also_run_disabled_tests"
+Directory: D:/university/c++/labwork9-MarinaBalakina/build/tests
+"Scheduler.SingleConstantTask" start time: Apr 25 17:29 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\university\c++\labwork9-MarinaBalakina\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Scheduler.SingleConstantTask
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Scheduler
+[ RUN      ] Scheduler.SingleConstantTask
+[       OK ] Scheduler.SingleConstantTask (0 ms)
+[----------] 1 test from Scheduler (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.41 sec
+----------------------------------------------------------
+Test Passed.
+"Scheduler.SingleConstantTask" end time: Apr 25 17:29 RTZ 2 (çèìà)
+"Scheduler.SingleConstantTask" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/5 Testing: Scheduler.ChainOfTasks
+2/5 Test: Scheduler.ChainOfTasks
+Command: "D:/university/c++/labwork9-MarinaBalakina/build/tests/processing-lib-tests.exe" "--gtest_filter=Scheduler.ChainOfTasks" "--gtest_also_run_disabled_tests"
+Directory: D:/university/c++/labwork9-MarinaBalakina/build/tests
+"Scheduler.ChainOfTasks" start time: Apr 25 17:29 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\university\c++\labwork9-MarinaBalakina\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Scheduler.ChainOfTasks
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Scheduler
+[ RUN      ] Scheduler.ChainOfTasks
+[       OK ] Scheduler.ChainOfTasks (0 ms)
+[----------] 1 test from Scheduler (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"Scheduler.ChainOfTasks" end time: Apr 25 17:29 RTZ 2 (çèìà)
+"Scheduler.ChainOfTasks" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/5 Testing: Scheduler.TwoArgTask
+3/5 Test: Scheduler.TwoArgTask
+Command: "D:/university/c++/labwork9-MarinaBalakina/build/tests/processing-lib-tests.exe" "--gtest_filter=Scheduler.TwoArgTask" "--gtest_also_run_disabled_tests"
+Directory: D:/university/c++/labwork9-MarinaBalakina/build/tests
+"Scheduler.TwoArgTask" start time: Apr 25 17:29 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\university\c++\labwork9-MarinaBalakina\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Scheduler.TwoArgTask
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Scheduler
+[ RUN      ] Scheduler.TwoArgTask
+[       OK ] Scheduler.TwoArgTask (0 ms)
+[----------] 1 test from Scheduler (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"Scheduler.TwoArgTask" end time: Apr 25 17:29 RTZ 2 (çèìà)
+"Scheduler.TwoArgTask" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/5 Testing: Scheduler.MemberFunctionTaskConst
+4/5 Test: Scheduler.MemberFunctionTaskConst
+Command: "D:/university/c++/labwork9-MarinaBalakina/build/tests/processing-lib-tests.exe" "--gtest_filter=Scheduler.MemberFunctionTaskConst" "--gtest_also_run_disabled_tests"
+Directory: D:/university/c++/labwork9-MarinaBalakina/build/tests
+"Scheduler.MemberFunctionTaskConst" start time: Apr 25 17:29 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\university\c++\labwork9-MarinaBalakina\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Scheduler.MemberFunctionTaskConst
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Scheduler
+[ RUN      ] Scheduler.MemberFunctionTaskConst
+[       OK ] Scheduler.MemberFunctionTaskConst (0 ms)
+[----------] 1 test from Scheduler (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"Scheduler.MemberFunctionTaskConst" end time: Apr 25 17:29 RTZ 2 (çèìà)
+"Scheduler.MemberFunctionTaskConst" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/5 Testing: Scheduler.ExecuteAllRunsEverything
+5/5 Test: Scheduler.ExecuteAllRunsEverything
+Command: "D:/university/c++/labwork9-MarinaBalakina/build/tests/processing-lib-tests.exe" "--gtest_filter=Scheduler.ExecuteAllRunsEverything" "--gtest_also_run_disabled_tests"
+Directory: D:/university/c++/labwork9-MarinaBalakina/build/tests
+"Scheduler.ExecuteAllRunsEverything" start time: Apr 25 17:29 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from D:\university\c++\labwork9-MarinaBalakina\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = Scheduler.ExecuteAllRunsEverything
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Scheduler
+[ RUN      ] Scheduler.ExecuteAllRunsEverything
+[       OK ] Scheduler.ExecuteAllRunsEverything (0 ms)
+[----------] 1 test from Scheduler (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"Scheduler.ExecuteAllRunsEverything" end time: Apr 25 17:29 RTZ 2 (çèìà)
+"Scheduler.ExecuteAllRunsEverything" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Apr 25 17:29 RTZ 2 (çèìà)

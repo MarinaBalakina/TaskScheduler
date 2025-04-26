@@ -1,0 +1,14 @@
+# Target labels
+ googletest-populate
+# Source files and their labels
+D:/university/c++/labwork9-MarinaBalakina/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate
+D:/university/c++/labwork9-MarinaBalakina/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate.rule
+D:/university/c++/labwork9-MarinaBalakina/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete.rule
+D:/university/c++/labwork9-MarinaBalakina/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build.rule
+D:/university/c++/labwork9-MarinaBalakina/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure.rule
+D:/university/c++/labwork9-MarinaBalakina/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download.rule
+D:/university/c++/labwork9-MarinaBalakina/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install.rule
+D:/university/c++/labwork9-MarinaBalakina/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir.rule
+D:/university/c++/labwork9-MarinaBalakina/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch.rule
+D:/university/c++/labwork9-MarinaBalakina/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test.rule
+D:/university/c++/labwork9-MarinaBalakina/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update.rule

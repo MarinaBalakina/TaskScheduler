@@ -1,0 +1,5 @@
+if(EXISTS "D:/university/c++/labwork9-MarinaBalakina/build/tests/processing-lib-tests[1]_tests.cmake")
+  include("D:/university/c++/labwork9-MarinaBalakina/build/tests/processing-lib-tests[1]_tests.cmake")
+else()
+  add_test(processing-lib-tests_NOT_BUILT processing-lib-tests_NOT_BUILT)
+endif()

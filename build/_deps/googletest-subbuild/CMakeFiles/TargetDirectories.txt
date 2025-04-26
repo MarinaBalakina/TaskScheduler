@@ -1,0 +1,3 @@
+D:/university/c++/labwork9-MarinaBalakina/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir
+D:/university/c++/labwork9-MarinaBalakina/build/_deps/googletest-subbuild/CMakeFiles/edit_cache.dir
+D:/university/c++/labwork9-MarinaBalakina/build/_deps/googletest-subbuild/CMakeFiles/rebuild_cache.dir

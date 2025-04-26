@@ -1,0 +1,6 @@
+Scheduler.SingleConstantTask 3 0.136605
+Scheduler.ChainOfTasks 3 0.00994023
+Scheduler.TwoArgTask 3 0.00844493
+Scheduler.MemberFunctionTaskConst 3 0.00848737
+Scheduler.ExecuteAllRunsEverything 3 0.0094889
+---

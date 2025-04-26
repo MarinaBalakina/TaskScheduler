@@ -1,0 +1,38 @@
+[
+{
+  "directory": "D:/university/c++/labwork9-MarinaBalakina/build/bin",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/labwork9.dir/includes_CXX.rsp -g -std=gnu++23 -o CMakeFiles\\labwork9.dir\\main.cpp.obj -c D:\\university\\c++\\labwork9-MarinaBalakina\\bin\\main.cpp",
+  "file": "D:/university/c++/labwork9-MarinaBalakina/bin/main.cpp",
+  "output": "bin/CMakeFiles/labwork9.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/university/c++/labwork9-MarinaBalakina/build/tests",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/processing-lib-tests.dir/includes_CXX.rsp -g -std=gnu++23 -o CMakeFiles\\processing-lib-tests.dir\\test.cpp.obj -c D:\\university\\c++\\labwork9-MarinaBalakina\\tests\\test.cpp",
+  "file": "D:/university/c++/labwork9-MarinaBalakina/tests/test.cpp",
+  "output": "tests/CMakeFiles/processing-lib-tests.dir/test.cpp.obj"
+},
+{
+  "directory": "D:/university/c++/labwork9-MarinaBalakina/build/_deps/googletest-build/googlemock",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/gmock.dir/includes_CXX.rsp -g -std=c++23 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gmock.dir\\src\\gmock-all.cc.obj -c D:\\university\\c++\\labwork9-MarinaBalakina\\build\\_deps\\googletest-src\\googlemock\\src\\gmock-all.cc",
+  "file": "D:/university/c++/labwork9-MarinaBalakina/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "output": "_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj"
+},
+{
+  "directory": "D:/university/c++/labwork9-MarinaBalakina/build/_deps/googletest-build/googlemock",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/gmock_main.dir/includes_CXX.rsp -g -std=c++23 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gmock_main.dir\\src\\gmock_main.cc.obj -c D:\\university\\c++\\labwork9-MarinaBalakina\\build\\_deps\\googletest-src\\googlemock\\src\\gmock_main.cc",
+  "file": "D:/university/c++/labwork9-MarinaBalakina/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "output": "_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj"
+},
+{
+  "directory": "D:/university/c++/labwork9-MarinaBalakina/build/_deps/googletest-build/googletest",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/gtest.dir/includes_CXX.rsp -g -std=c++23 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gtest.dir\\src\\gtest-all.cc.obj -c D:\\university\\c++\\labwork9-MarinaBalakina\\build\\_deps\\googletest-src\\googletest\\src\\gtest-all.cc",
+  "file": "D:/university/c++/labwork9-MarinaBalakina/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj"
+},
+{
+  "directory": "D:/university/c++/labwork9-MarinaBalakina/build/_deps/googletest-build/googletest",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/gtest_main.dir/includes_CXX.rsp -g -std=c++23 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gtest_main.dir\\src\\gtest_main.cc.obj -c D:\\university\\c++\\labwork9-MarinaBalakina\\build\\_deps\\googletest-src\\googletest\\src\\gtest_main.cc",
+  "file": "D:/university/c++/labwork9-MarinaBalakina/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj"
+}
+]
